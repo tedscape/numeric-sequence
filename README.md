@@ -4,7 +4,7 @@
 How to run the project
 ----------------------
 
-Deploy the page on IIS and run index.html. This would help runt he project
+Deploy the website on IIS and run index.html. This would help runt he project
 
 What it does
 ------------
