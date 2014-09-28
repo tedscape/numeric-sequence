@@ -1,0 +1,8 @@
+C:\development\numeric_seq_calculator\NumSeq\NumSeq\bin\NumSeq.dll
+C:\development\numeric_seq_calculator\NumSeq\NumSeq\bin\NumSeq.pdb
+C:\development\numeric_seq_calculator\NumSeq\NumSeq\obj\Debug\NumSeq.dll
+C:\development\numeric_seq_calculator\NumSeq\NumSeq\obj\Debug\NumSeq.pdb
+C:\development\numeric-sequence\numeric-sequence\bin\NumSeq.dll
+C:\development\numeric-sequence\numeric-sequence\bin\NumSeq.pdb
+C:\development\numeric-sequence\numeric-sequence\obj\Debug\NumSeq.dll
+C:\development\numeric-sequence\numeric-sequence\obj\Debug\NumSeq.pdb
