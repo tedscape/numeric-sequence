@@ -117,6 +117,8 @@ function numbersonly(myfield, e, dec) {
 $(document).ready(function () {
     $("#submit").bind("click", function () {
         var number = $("#txtInput").val();
+        $("#resultsDiv").show();
+
         var numericGen = new window.numericSeqGenerator();
         $("#resultAllNUmbers").html((numericGen.getAllNumbersUpto(number)).join(', '));
         $("#resultAllOdd").html((numericGen.getAllOddNumbersIncluding(number)).join(', '));
@@ -126,6 +128,7 @@ $(document).ready(function () {
     });
     $("#clear").bind("click", function () {
         var number = $("#txtInput").val();
+        
         $("#resultAllNUmbers").html(0);
         $("#resultAllOdd").html(0);
         $("#resultAllEven").html(0);

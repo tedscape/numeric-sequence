@@ -1,10 +1,14 @@
 ﻿The Numeric Sequence Generator
 ==============================
+Demo
+----
+
+Here is the [link](http://numericsequencegenerator.apphb.com/index.htm) to the demo.
 
 How to run the project
 ----------------------
 
-Deploy the website on IIS and run index.html. This would help runt he project
+Deploy the website on IIS and run index.html, or you can double click index.html in the project folder.
 
 What it does
 ------------
@@ -22,3 +26,8 @@ The Numeric sequence generator helps in generating a number of sequences as give
     
     
 **NB:- Enter positive Digits only**
+
+Testing
+-------
+
+Testing has been done with help of Jasmine.js and can be run from the index.html page.
